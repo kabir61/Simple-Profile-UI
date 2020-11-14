@@ -13,4 +13,29 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+    <style name="facebook_btn" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/facebook_btn</item>
+        <item name="colorPrimaryDark">@color/facebook_btn</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+
+
+    <style name="twitter_btn" parent="Theme.MaterialComponents.Light.DarkActionBar">
+    <item name="colorPrimary">@color/twitter_btn</item>
+    <item name="colorPrimaryDark">@color/twitter_btn</item>
+    <item name="colorAccent">@color/white</item>
+    </style>
+
+    <style name="email_btn" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/email_btn</item>
+        <item name="colorPrimaryDark">@color/email_btn</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+   <!-- <style name="AppTheme3" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        &lt;!&ndash; Customize your theme here. &ndash;&gt;
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryDark">@color/red</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>-->
 </resources>

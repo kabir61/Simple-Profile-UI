@@ -10,4 +10,12 @@
 
 
     <color name="gray">#323232</color>
+    <color name="facebook_btn">#3B5998</color>
+    <color name="twitter_btn">#00ACED</color>
+    <color name="email_btn">#1EB953</color>
+
+    <color name="first_color">#3B5998</color>
+    <color name="second_color">#3B5998</color>
+    <color name="third_color">#3B5998</color>
+
 </resources>
